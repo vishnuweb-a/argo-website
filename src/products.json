@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Soil & Fertilizer",
+    "id": "epsom-salt-fertilizer",
+    "image": "/assets/products/epsom-salt-fertilizer.jpg",
+    "mrp": 199,
+    "name": "Epsom Salt Fertilizer for Plants",
+    "pack": "450g pack",
+    "price": 149
+  },
+  {
+    "category": "Soil & Fertilizer",
+    "id": "organic-steamed-bone-meal",
+    "image": "/assets/products/organic-steamed-bone-meal.jpg",
+    "mrp": 319,
+    "name": "Organic Steamed Bone Meal Fertilizer",
+    "pack": "500g",
+    "price": 229
+  },
+  {
+    "category": "Soil & Fertilizer",
+    "id": "neem-oil-pest-control",
+    "image": "/assets/products/neem-oil-pest-control.jpg",
+    "mrp": 279,
+    "name": "Neem Oil for Pest Control \u2014 Organic Pesticide",
+    "pack": "100ml bottle",
+    "price": 199
+  },
+  {
+    "category": "Soil & Fertilizer",
+    "id": "neem-cake-fertilizer",
+    "image": "/assets/products/neem-cake-fertilizer.jpg",
+    "mrp": 249,
+    "name": "Neem Cake Powder (Neem Khali)",
+    "pack": "500g",
+    "price": 179
+  },
+  {
+    "category": "Microgreen Seeds",
+    "id": "swiss-chard-green-microgreen-seeds",
+    "image": "/assets/products/swiss-chard-green-microgreen-seeds.jpg",
+    "mrp": 159,
+    "name": "Swiss Chard Green Microgreen Seeds",
+    "pack": "50g pack",
+    "price": 109
+  },
+  {
+    "category": "Microgreen Seeds",
+    "id": "red-mustard-microgreen-seeds",
+    "image": "/assets/products/red-mustard-microgreen-seeds.jpg",
+    "mrp": 149,
+    "name": "Red Mustard Microgreen Seeds",
+    "pack": "50g pack",
+    "price": 99
+  },
+  {
+    "category": "Grow Bags",
+    "id": "rectangular-grow-bag-24x9",
+    "image": "/assets/products/rectangular-grow-bag-24x9.jpg",
+    "mrp": 189,
+    "name": "Rectangular Grow Bag \u2014 24\u00d79 Inch",
+    "pack": "1 piece",
+    "price": 129
+  },
+  {
+    "category": "Grow Bags",
+    "id": "rectangular-grow-bag-24x6-pack-2",
+    "image": "/assets/products/rectangular-grow-bag-24x6-pack-2.jpg",
+    "mrp": 219,
+    "name": "Rectangular Grow Bag \u2014 24\u00d76 Inch (Pack of 2)",
+    "pack": "Pack of 2",
+    "price": 149
+  },
+  {
+    "category": "Grow Bags",
+    "id": "hdpe-grow-bag-18x18-pack-5",
+    "image": "/assets/products/hdpe-grow-bag-18x18-pack-5.jpg",
+    "mrp": 649,
+    "name": "HDPE Grow Bags \u2014 18\u00d718 Inch (Pack of 5)",
+    "pack": "Pack of 5",
+    "price": 449
+  },
+  {
+    "category": "Grow Bags",
+    "id": "hdpe-grow-bag-15x15",
+    "image": "/assets/products/hdpe-grow-bag-15x15.jpg",
+    "mrp": 149,
+    "name": "HDPE Grow Bags \u2014 15\u00d715 Inch",
+    "pack": "1 piece",
+    "price": 99
+  },
+  {
+    "category": "Grow Bags",
+    "id": "hdpe-grow-bag-12x12-pack-10",
+    "image": "/assets/products/hdpe-grow-bag-12x12-pack-10.jpg",
+    "mrp": 799,
+    "name": "HDPE Grow Bags \u2014 12\u00d712 Inch (Pack of 10)",
+    "pack": "Pack of 10",
+    "price": 549
+  },
+  {
+    "category": "Grow Bags",
+    "id": "hdpe-grow-bag-9x9",
+    "image": "/assets/products/hdpe-grow-bag-9x9.jpg",
+    "mrp": 79,
+    "name": "HDPE Grow Bags \u2014 9\u00d79 Inch",
+    "pack": "1 piece",
+    "price": 49
+  },
+  {
+    "category": "Organic Seeds",
+    "id": "untreated-chilli-seeds",
+    "image": "/assets/products/untreated-chilli-seeds.jpg",
+    "mrp": 129,
+    "name": "Untreated Chilli Seeds",
+    "pack": "50 seeds",
+    "price": 89
+  },
+  {
+    "category": "Organic Seeds",
+    "id": "untreated-okra-seeds",
+    "image": "/assets/products/untreated-okra-seeds.jpg",
+    "mrp": 99,
+    "name": "Untreated Okra Seeds (Lady Finger)",
+    "pack": "50 seeds",
+    "price": 69
+  },
+  {
+    "category": "Organic Seeds",
+    "id": "untreated-broccoli-seeds",
+    "image": "/assets/products/untreated-broccoli-seeds.jpg",
+    "mrp": 159,
+    "name": "Untreated Broccoli Seeds",
+    "pack": "50 seeds",
+    "price": 109
+  },
+  {
+    "category": "Organic Seeds",
+    "id": "untreated-beetroot-seeds",
+    "image": "/assets/products/untreated-beetroot-seeds.jpg",
+    "mrp": 129,
+    "name": "Untreated Beetroot Seeds (Chukandar)",
+    "pack": "50 seeds",
+    "price": 89
+  },
+  {
+    "category": "Organic Seeds",
+    "id": "untreated-carrot-orange-seeds",
+    "image": "/assets/products/untreated-carrot-orange-seeds.jpg",
+    "mrp": 139,
+    "name": "Untreated Carrot Orange Seeds",
+    "pack": "150 seeds",
+    "price": 89
+  },
+  {
+    "category": "Organic Seeds",
+    "id": "untreated-spinach-seeds",
+    "image": "/assets/products/untreated-spinach-seeds.jpg",
+    "mrp": 119,
+    "name": "Untreated Spinach Seeds",
+    "pack": "200 seeds",
+    "price": 79
+  },
+  {
+    "category": "Organic Seeds",
+    "id": "untreated-cherry-tomato-seeds",
+    "image": "/assets/products/untreated-cherry-tomato-seeds.jpg",
+    "mrp": 179,
+    "name": "Untreated Cherry Tomato Seeds",
+    "pack": "50 seeds",
+    "price": 119
+  },
+  {
+    "category": "Organic Seeds",
+    "id": "untreated-tomato-seeds",
+    "image": "/assets/products/untreated-tomato-seeds.jpg",
+    "mrp": 149,
+    "name": "Untreated Tomato Seeds",
+    "pack": "100 seeds",
+    "price": 99
+  }
+]
